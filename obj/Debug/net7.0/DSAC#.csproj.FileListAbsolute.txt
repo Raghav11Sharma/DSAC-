@@ -1,0 +1,14 @@
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\DSAC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\DSAC#.AssemblyInfoInputs.cache
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\DSAC#.AssemblyInfo.cs
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\DSAC#.csproj.CoreCompileInputs.cache
+C:\Users\003EN3744\Desktop\DSAC#\bin\Debug\net7.0\DSAC#.exe
+C:\Users\003EN3744\Desktop\DSAC#\bin\Debug\net7.0\DSAC#.deps.json
+C:\Users\003EN3744\Desktop\DSAC#\bin\Debug\net7.0\DSAC#.runtimeconfig.json
+C:\Users\003EN3744\Desktop\DSAC#\bin\Debug\net7.0\DSAC#.dll
+C:\Users\003EN3744\Desktop\DSAC#\bin\Debug\net7.0\DSAC#.pdb
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\DSAC#.dll
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\refint\DSAC#.dll
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\DSAC#.pdb
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\DSAC#.genruntimeconfig.cache
+C:\Users\003EN3744\Desktop\DSAC#\obj\Debug\net7.0\ref\DSAC#.dll
