@@ -8,7 +8,6 @@ public class TwoPointer
         int size = arr.Length;
         int left = 0;
         int right = size - k;
-        int max = 0;
         for (int i = 0; i <= size - k; i++)
         {
             result += arr[i];
@@ -21,7 +20,7 @@ public class TwoPointer
             result = result + arr[right];
         }
 
-        max = Math.Max(result, result);
+        int max = Math.Max(result, result);
 
         return result;
     }
